@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rihane</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/c8GRUKNYen4AAAAC/kanye-album-cover.gif">
 
 
 
