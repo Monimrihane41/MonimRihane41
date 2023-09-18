@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rihane</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate  developer from Morocco</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/c8GRUKNYen4AAAAC/kanye-album-cover.gif">
 
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/monimrihane" target="blank"><img src="https://img.shields.io/twitter/follow/monimrihane?logo=twitter&style=for-the-badge" alt="monimrihane" /></a> </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=monimrihane41&label=Profile%20views&color=0e75b6&style=flat" alt="monimrihane41" /></p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **abdelmounaimrihan@gmail.com**
 
