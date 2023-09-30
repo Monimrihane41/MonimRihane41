@@ -4,8 +4,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Rihane</h1>
-<h3 align="center">A passionate  developer from Morocco</h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
+</p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/c8GRUKNYen4AAAAC/kanye-album-cover.gif">
 
 
