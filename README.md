@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abdelmounaimrihan@gmail.com**
 
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+- ⚡ Fun fact *The first computer “bug” was an actual real-life bug*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
