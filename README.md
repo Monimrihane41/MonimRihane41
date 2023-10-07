@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Rihane</h1>
+<h1 align="center">Hi 👋 , I'm Rihane</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
