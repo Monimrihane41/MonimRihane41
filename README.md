@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning *ASP.NET**
 
-- 📫 How to reach me **abdelmounaimrihan@gmail.com**
+- 📫 How to reach me **abdelmounimrihane@gmail.com*
 
 - ⚡ Fun fact *The first computer “bug” was an actual real-life bug*
 
