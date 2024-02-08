@@ -22,9 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/monimrihane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monimrihane" height="30" width="40" /></a>
-<a href="https://fb.com/rihane.monim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rihane.monim" height="30" width="40" /></a>
-<a href="https://instagram.com/yeezus0_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeezus0_o" height="30" width="40" /></a>
+
 <a href="https://discord.gg/WAJjMaSq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yeezus0_0#2822" height="30" width="40" /></a>
 </p>
 
