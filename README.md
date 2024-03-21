@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning *ASP.NET**
+- 🌱 I’m currently learning MERN STACK
 
 - 📫 How to reach me **abdelmounimrihane@gmail.com*
 
