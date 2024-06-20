@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning MERN STACK
+- 🌱 I’m currently learning NextJS
 
 - 📫 How to reach me **abdelmounimrihane@gmail.com*
 
