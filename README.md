@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/c8GRUKNYen4AAAAC/kanye-album-cover.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/c8GRUKNYen4AAAAC/kanye-album-cover.gif">
 
 
 
