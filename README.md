@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Angular
 
 - 📫 How to reach me **abdelmounimrihane@gmail.com*
 
